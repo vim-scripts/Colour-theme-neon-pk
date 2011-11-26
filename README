@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3825
+
+A beautiful variation on the neon colour theme. For picture, see http://damp-squid.blogspot.com/2011/11/vim-colour-theme-neon-pk.html
+
+As you can see from the above link, this looks great with the DejaVu Sans Mono font :-) The font is free and can be downloaded from http://dejavu-fonts.org/wiki/Download. This font is similar to the Apple Menlo font. So you don't need the DejaVu font if you're using Mac OS X. For more about these fonts, see http://typophile.com/node/58625.
+
+One of the improvements on the neon theme is that when you start searching, the text found is highlighted clearly in orange. Then, when you press Enter, all matched text is visible in yellow. This assumes that you have the following settings in your vimrc file:
+
+  set incsearch
+  set hlsearch
+
+
