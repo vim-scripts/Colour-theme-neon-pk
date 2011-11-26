@@ -1,7 +1,9 @@
 " Vim color file
-"  Maintainer: Tiza
-" Last Change: 2002/10/25 Fri 16:23.
-"     version: 1.2
+"  Neon theme by: Tiza
+" Maintainer: Praful 
+" Last Change: 2011/11/26 by Praful. 
+"     version: 2.0: This new theme (neon-PK) is based on the neon theme by Tiza.
+"
 " This color scheme uses a dark background.
 
 set background=dark
